@@ -5,20 +5,20 @@
 Файл userdata.sh  содержит UserData для сервера nginx, а terraform.tfvars(занесен в .getignore) - пароли на БД и прочую чувствительную информацию.
 
 ### скриншоты выполнения манифестов
-![](1 tf init.jpg)
-![](2 tf plan.jpg)
-![](3 tf apply.jpg)
+![](1_tf_init.jpg)
+![](2_tf_plan.jpg)
+![](3_tf_apply.jpg)
 
 ### скриншоты AWS c nginx
-![](4 ec2.jpg)
-![](5 nginx home page.jpg)
+![](4_ec2.jpg)
+![](5_nginx_home_page.jpg)
 
 ### скриншоты AWS c RDS
-![](6 rds.jpg)
-![](7 rds viewer.jpg)
+![](6_rds.jpg)
+![](7_rds_viewer.jpg)
 
 ### outputs
-![](8 outputs.jpg) 
+![](8_outputs.jpg) 
 С Уважением, Татьяна
 
 
