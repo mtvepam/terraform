@@ -2,7 +2,7 @@
 ### Задание 2 выполнено. 
 
 Выделены два модуля для rds и ec2(nginx) с наборами variables и outputs. В корневом main.tf есть вызовы обоих модулей и outputs из них. 
-Файл userdata.sh  содержит UserData для сервера nginx, а terraform.tfvars - пароли на БД и прочую чувствительную информацию.
+Файл userdata.sh  содержит UserData для сервера nginx, а terraform.tfvars(занесен в .getignore) - пароли на БД и прочую чувствительную информацию.
 
 ### скриншоты выполнения манифестов
 ![](1 tf init.jpg)
